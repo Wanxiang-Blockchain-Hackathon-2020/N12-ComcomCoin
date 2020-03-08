@@ -1,0 +1,8 @@
+gunicorn
+flask
+sqlalchemy
+Flask-SQLAlchemy
+flask_cors
+py_ecc
+mysqlclient
+
